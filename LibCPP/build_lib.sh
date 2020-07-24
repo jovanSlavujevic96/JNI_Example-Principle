@@ -1,0 +1,1 @@
+g++ -shared -fPIC -std=c++11 -Iinclude/ src/NekiLib.cpp -o build/libNekiLib.so
